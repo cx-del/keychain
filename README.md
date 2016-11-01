@@ -1,4 +1,4 @@
-# iOS 钥匙串存储 OC
+# iOS 钥匙串存储 
 
 ```
 #define kKEYCHAIN_GROUP             @"xx.xx"
